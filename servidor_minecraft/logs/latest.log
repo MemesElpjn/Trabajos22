@@ -29,3 +29,7 @@
 [01:00:17] [Server thread/INFO]: [TheForgottenNeo: Set own game mode to Creative Mode]
 [01:00:38] [Server thread/INFO]: [TheForgottenNeo: Set own game mode to Survival Mode]
 [01:11:07] [Server thread/INFO]: TheForgottenNeo has made the advancement [What a Deal!]
+[01:13:28] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[01:19:30] [Server thread/INFO]: TheForgottenNeo lost connection: Disconnected
+[01:19:30] [Server thread/INFO]: TheForgottenNeo left the game
+[01:20:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
