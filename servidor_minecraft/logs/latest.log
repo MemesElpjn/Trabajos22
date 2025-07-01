@@ -39,3 +39,6 @@
 [01:52:22] [Server thread/INFO]: [Not Secure] <TheForgottenNeo> a
 [02:25:01] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
 [02:32:01] [Server thread/INFO]: [TheForgottenNeo: Set the time to 1000]
+[02:52:17] [Server thread/INFO]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[02:52:29] [Server thread/INFO]: [TheForgottenNeo: Applied effect Strength to TheForgottenNeo]
+[02:52:34] [Server thread/INFO]: [TheForgottenNeo: Set own game mode to Survival Mode]
