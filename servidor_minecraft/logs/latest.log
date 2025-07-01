@@ -1,45 +1,4 @@
-[23:31:57] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[23:31:58] [main/INFO]: Loading 6 mods:
-	- fabricloader 0.16.14
-	   \-- mixinextras 0.4.1
-	- java 21
-	- minecraft 1.21.5
-	- skinrestorer 2.3.5+1.21.5-fabric
-	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
-[23:31:58] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Trabajos22/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[23:31:58] [main/INFO]: Compatibility level set to JAVA_17
-[23:32:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[23:32:07] [main/WARN]: fabric-api is not loaded, SkinShuffle compatibility will not be available
-[23:32:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:32:10] [main/INFO]: Loaded 1496 recipes
-[23:32:10] [main/INFO]: Loaded 1484 advancements
-[23:32:10] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[23:32:10] [Server thread/INFO]: Loading properties
-[23:32:10] [Server thread/INFO]: Default game type: SURVIVAL
-[23:32:10] [Server thread/INFO]: Generating keypair
-[23:32:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:32:10] [Server thread/INFO]: Using epoll channel type
-[23:32:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:32:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:32:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:32:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:32:10] [Server thread/INFO]: Preparing level "world"
-[23:32:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:32:15] [Server thread/INFO]: Time elapsed: 4380 ms
-[23:32:15] [Server thread/INFO]: Done (4.739s)! For help, type "help"
-[23:32:15] [Server thread/INFO]: [Not Secure] [Server] Veinminer Loaded!
-[23:33:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[23:34:29] [Server thread/INFO]: TheForgottenNeo[/127.147.19.120:56025] logged in with entity id 1 at (2487.4538427082807, 71.5, 341.632961633546)
-[23:34:29] [Server thread/INFO]: TheForgottenNeo joined the game
-[23:56:01] [Server thread/INFO]: [TheForgottenNeo: Set own game mode to Creative Mode]
-[23:56:44] [Server thread/INFO]: [TheForgottenNeo: Applied effect Strength to TheForgottenNeo]
-[23:57:28] [Server thread/INFO]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[00:08:55] [Server thread/INFO]: [TheForgottenNeo: Teleported TheForgottenNeo to 2490.500000, -43.500000, 360.500000]
+[00:09:05] [Server thread/INFO]: TheForgottenNeo has made the advancement [Hot Stuff]
+[00:09:15] [Server thread/INFO]: [TheForgottenNeo: Set own game mode to Spectator Mode]
+[00:09:34] [Server thread/INFO]: [TheForgottenNeo: Set own game mode to Survival Mode]
