@@ -18,6 +18,7 @@
       "minecraft:lush_caves": "2025-06-26 20:54:25 +0000",
       "minecraft:deep_dark": "2025-06-26 21:59:53 +0000",
       "minecraft:jungle": "2025-06-26 21:47:29 +0000",
+      "minecraft:meadow": "2025-07-01 00:59:10 +0000",
       "minecraft:bamboo_jungle": "2025-06-26 21:39:20 +0000",
       "minecraft:plains": "2025-06-26 21:23:10 +0000"
     },
@@ -1176,6 +1177,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-26 21:31:47 +0000",
       "bread": "2025-06-26 21:50:37 +0000",
+      "golden_apple": "2025-07-01 00:58:53 +0000",
       "glow_berries": "2025-06-26 22:09:26 +0000",
       "cooked_beef": "2025-06-26 22:12:05 +0000",
       "melon_slice": "2025-06-26 21:26:56 +0000"
@@ -1872,6 +1874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-01 00:51:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-01 00:25:47 +0000"
@@ -1881,6 +1889,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-30 23:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-01 00:51:39 +0000"
     },
     "done": true
   },
@@ -1911,6 +1925,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-30 23:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-01 00:51:39 +0000"
     },
     "done": true
   },
