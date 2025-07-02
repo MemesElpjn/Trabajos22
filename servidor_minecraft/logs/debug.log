@@ -15872,3 +15872,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 20:40:17.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jul2025 20:45:17.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jul2025 20:45:17.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 20:50:17.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 20:50:17.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 20:50:47.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by Skeleton
+[02Jul2025 20:50:47.542] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheForgottenNeo was created at position [x:-171, y:2, z:-1237, dim:minecraft:overworld]
+[02Jul2025 20:50:47.543] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 20:50:54.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -171.500000, 2.500000, -1237.500000]
+[02Jul2025 20:51:58.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Diamonds!]
+[02Jul2025 20:55:17.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 20:55:17.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 20:55:33.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -72.500000, 64.500000, -1092.500000]
+[02Jul2025 20:55:58.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Industrial Revolution]

@@ -1906,3 +1906,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 20:13:33.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Tricking a Rock Into Thinking]
 [02Jul2025 20:24:01.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was slain by Zombie
 [02Jul2025 20:24:01.543] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 20:50:47.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by Skeleton
+[02Jul2025 20:50:47.543] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 20:50:54.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -171.500000, 2.500000, -1237.500000]
+[02Jul2025 20:51:58.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Diamonds!]
+[02Jul2025 20:55:33.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -72.500000, 64.500000, -1092.500000]
+[02Jul2025 20:55:58.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Industrial Revolution]
