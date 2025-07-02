@@ -15808,3 +15808,59 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 20:03:33.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [The Alloy That Started it All]
 [02Jul2025 20:05:17.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jul2025 20:05:17.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 20:07:42.006] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (208 | 8 | -1168)
+[02Jul2025 20:07:42.006] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (208 | 8 | -1168)
+[02Jul2025 20:07:42.006] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (208 | 8 | -1168)
+[02Jul2025 20:07:42.006] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (208 | 8 | -1168)
+[02Jul2025 20:07:42.012] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (208 | 8 | -1168)
+[02Jul2025 20:07:42.012] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (208 | 8 | -1168)
+[02Jul2025 20:07:42.012] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (208 | 8 | -1168)
+[02Jul2025 20:07:42.012] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (208 | 8 | -1168)
+[02Jul2025 20:07:42.643] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (208 | 7 | -1276)
+[02Jul2025 20:07:42.643] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (208 | 7 | -1276)
+[02Jul2025 20:07:42.643] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (208 | 7 | -1276)
+[02Jul2025 20:07:42.643] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (208 | 7 | -1276)
+[02Jul2025 20:07:42.643] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (208 | -1 | -1249)
+[02Jul2025 20:07:42.643] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (208 | -1 | -1249)
+[02Jul2025 20:07:42.652] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (208 | -1 | -1249)
+[02Jul2025 20:07:42.652] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (208 | -1 | -1249)
+[02Jul2025 20:07:42.678] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (208 | 7 | -1276)
+[02Jul2025 20:07:42.678] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation COUNTERCLOCKWISE_90 at (208 | 7 | -1276)
+[02Jul2025 20:07:42.678] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (208 | 7 | -1276)
+[02Jul2025 20:07:42.678] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (208 | 7 | -1276)
+[02Jul2025 20:07:42.678] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (208 | -1 | -1294)
+[02Jul2025 20:07:42.678] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (208 | -1 | -1294)
+[02Jul2025 20:07:42.686] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (208 | -1 | -1294)
+[02Jul2025 20:07:42.686] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (208 | -1 | -1294)
+[02Jul2025 20:10:17.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 20:10:17.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 20:13:33.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Tricking a Rock Into Thinking]
+[02Jul2025 20:14:30.680] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (108 | 44 | -871)
+[02Jul2025 20:14:30.680] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (108 | 44 | -871)
+[02Jul2025 20:14:30.680] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (108 | 35 | -871)
+[02Jul2025 20:14:30.681] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (108 | 35 | -871)
+[02Jul2025 20:14:30.704] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (125 | 44 | -865)
+[02Jul2025 20:14:30.704] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (125 | 44 | -865)
+[02Jul2025 20:14:30.704] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (108 | 44 | -871)
+[02Jul2025 20:14:30.705] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_180 at (108 | 44 | -871)
+[02Jul2025 20:14:30.705] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (108 | 35 | -871)
+[02Jul2025 20:14:30.706] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (108 | 35 | -871)
+[02Jul2025 20:14:30.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (125 | 44 | -865)
+[02Jul2025 20:14:30.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (125 | 44 | -865)
+[02Jul2025 20:14:30.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (133 | 44 | -866)
+[02Jul2025 20:14:30.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (133 | 44 | -866)
+[02Jul2025 20:14:30.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (130 | 44 | -866)
+[02Jul2025 20:14:30.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (130 | 44 | -866)
+[02Jul2025 20:14:30.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 44 | -867)
+[02Jul2025 20:14:30.795] [Worker-Main-20/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 44 | -867)
+[02Jul2025 20:14:34.606] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 44 | -867)
+[02Jul2025 20:14:34.606] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 44 | -867)
+[02Jul2025 20:15:17.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 20:15:17.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 20:20:17.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 20:20:17.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 20:24:01.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was slain by Zombie
+[02Jul2025 20:24:01.538] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheForgottenNeo was created at position [x:-71, y:64, z:-1094, dim:minecraft:overworld]
+[02Jul2025 20:24:01.543] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 20:25:17.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 20:25:17.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
