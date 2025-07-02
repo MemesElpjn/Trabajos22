@@ -73,6 +73,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-07-02 22:54:41 +0000",
       "minecraft:bamboo_jungle": "2025-07-02 19:45:34 +0000",
       "minecraft:savanna_plateau": "2025-07-02 18:50:54 +0000",
       "minecraft:beach": "2025-07-02 18:42:37 +0000",
@@ -82,6 +83,9 @@
       "minecraft:stony_shore": "2025-07-02 18:46:35 +0000",
       "minecraft:dripstone_caves": "2025-07-02 18:49:27 +0000",
       "minecraft:forest": "2025-07-02 10:12:56 +0000",
+      "minecraft:jungle": "2025-07-02 22:43:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-02 22:45:55 +0000",
+      "minecraft:meadow": "2025-07-02 22:52:46 +0000",
       "minecraft:savanna": "2025-07-02 18:49:45 +0000",
       "minecraft:plains": "2025-07-02 18:42:46 +0000"
     },
@@ -998,6 +1002,7 @@
       "minecraft:wither_skeleton": "2025-07-02 21:36:17 +0000",
       "minecraft:cave_spider": "2025-07-02 19:33:48 +0000",
       "minecraft:piglin": "2025-07-02 21:48:02 +0000",
+      "minecraft:stray": "2025-07-02 22:38:57 +0000",
       "minecraft:zombie": "2025-07-02 19:11:23 +0000",
       "minecraft:drowned": "2025-07-02 22:25:19 +0000"
     },
@@ -1189,9 +1194,14 @@
       "scrubland": "2025-07-02 18:49:48 +0000",
       "fungal_jungle": "2025-07-02 19:15:05 +0000",
       "erupting_inferno": "2025-07-02 21:34:32 +0000",
+      "highland": "2025-07-02 22:54:54 +0000",
+      "clover_patch": "2025-07-02 22:46:30 +0000",
       "old_growth_woodland": "2025-07-02 19:14:21 +0000",
       "withered_abyss": "2025-07-02 21:40:55 +0000",
+      "orchard": "2025-07-02 22:47:32 +0000",
+      "coniferous_forest": "2025-07-02 22:51:24 +0000",
       "spider_nest": "2025-07-02 19:27:15 +0000",
+      "seasonal_orchard": "2025-07-02 22:50:09 +0000",
       "rocky_rainforest": "2025-07-02 19:14:55 +0000",
       "undergrowth": "2025-07-02 21:41:52 +0000",
       "rainforest": "2025-07-02 19:14:44 +0000"
@@ -1815,73 +1825,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 22:24:59 +0000"
+      "log_spam_fixer": "2025-07-02 22:54:58 +0000"
     },
     "done": false
   },
@@ -2168,6 +2178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-02 22:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-02 20:04:20 +0000"
@@ -2282,6 +2298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-02 22:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 19:53:25 +0000"
@@ -2339,6 +2361,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-02 19:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 22:29:51 +0000"
     },
     "done": true
   },
@@ -2408,6 +2436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-02 22:55:01 +0000"
+    },
+    "done": true
+  },
   "rftoolsdim:recipes/rftoolsdim/empty_dimension_tab": {
     "criteria": {
       "redstone": "2025-07-02 19:35:01 +0000"
@@ -2441,6 +2475,12 @@
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-02 21:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 22:29:51 +0000"
     },
     "done": true
   },
@@ -2582,6 +2622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 22:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-07-02 20:51:58 +0000"
@@ -2633,6 +2679,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-02 21:22:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-02 22:31:02 +0000"
     },
     "done": true
   },
@@ -2690,6 +2742,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-07-02 22:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-02 21:10:47 +0000"
@@ -2735,6 +2793,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-02 19:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 22:31:02 +0000"
     },
     "done": true
   },
@@ -2924,6 +2988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 22:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-02 19:35:17 +0000"
@@ -3053,6 +3123,12 @@
   "tconstruct:recipes/misc/smeltery/copper_can": {
     "criteria": {
       "has_item": "2025-07-02 19:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-02 22:29:46 +0000"
     },
     "done": true
   },
@@ -3200,6 +3276,12 @@
     },
     "done": true
   },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-07-02 22:52:53 +0000"
+    },
+    "done": false
+  },
   "mekanism:steel_ingot": {
     "criteria": {
       "ingot_steel": "2025-07-02 20:55:58 +0000"
@@ -3269,6 +3351,12 @@
   "phantasm:recipes/building_blocks/obsidian": {
     "criteria": {
       "has_obsidian": "2025-07-02 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 22:51:28 +0000"
     },
     "done": true
   },
@@ -3365,6 +3453,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/gauge": {
     "criteria": {
       "has_item": "2025-07-02 19:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-02 22:55:01 +0000"
     },
     "done": true
   },
@@ -3470,15 +3564,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 22:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-02 20:07:14 +0000"
     },
     "done": true
   },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-07-02 22:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-07-02 19:05:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-07-02 22:51:28 +0000"
     },
     "done": true
   },
@@ -3566,6 +3678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 22:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-07-02 20:00:15 +0000"
@@ -3605,6 +3723,18 @@
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-02 19:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-02 22:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-02 22:55:01 +0000"
     },
     "done": true
   },
@@ -3844,6 +3974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 22:31:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-02 19:35:17 +0000"
@@ -3865,6 +4001,12 @@
   "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-07-02 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-07-02 22:31:32 +0000"
     },
     "done": true
   },
@@ -3925,6 +4067,12 @@
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-02 19:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-02 22:29:46 +0000"
     },
     "done": true
   },
@@ -4186,6 +4334,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-07-02 22:29:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-07-02 21:41:00 +0000"
@@ -4303,6 +4457,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-02 21:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 22:31:02 +0000"
     },
     "done": true
   },
@@ -4522,6 +4682,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-07-02 22:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-02 21:38:52 +0000"
@@ -4545,6 +4711,18 @@
       "has_red_dye": "2025-07-02 19:05:16 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-07-02 22:52:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "ancient_hide": "2025-07-02 22:52:53 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
@@ -4582,6 +4760,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-02 22:34:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-02 19:45:48 +0000"
@@ -4615,6 +4799,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 19:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 22:29:51 +0000"
     },
     "done": true
   },
@@ -4684,6 +4874,12 @@
     },
     "done": true
   },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-07-02 22:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-07-02 19:35:01 +0000"
@@ -4708,6 +4904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 22:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-02 21:51:57 +0000"
@@ -4723,6 +4925,18 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-07-02 19:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 22:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 22:31:02 +0000"
     },
     "done": true
   },
@@ -5032,6 +5246,18 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/cassette_deck": {
+    "criteria": {
+      "has_jukebox": "2025-07-02 22:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 22:31:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-02 21:05:00 +0000"
@@ -5059,6 +5285,12 @@
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-07-02 20:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 22:29:51 +0000"
     },
     "done": true
   },
