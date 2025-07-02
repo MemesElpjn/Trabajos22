@@ -1826,73 +1826,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:50:58 +0000"
     },
     "done": false
   },
@@ -2227,6 +2227,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_1k_part": {
+    "criteria": {
+      "has_logic_processor": "2025-07-02 23:49:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-02 19:36:08 +0000"
@@ -2344,6 +2350,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 19:53:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals": {
+    "criteria": {
+      "has_logic_processor": "2025-07-02 23:49:53 +0000"
     },
     "done": true
   },
@@ -2809,6 +2821,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-02 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_logic_processor": "2025-07-02 23:49:53 +0000"
     },
     "done": true
   },
@@ -3508,6 +3526,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/materials/formationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-07-02 23:49:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
     "criteria": {
       "has_quartz_block": "2025-07-02 23:27:44 +0000"
@@ -3823,6 +3847,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-07-02 21:42:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/annihilationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-07-02 23:49:53 +0000"
     },
     "done": true
   },
