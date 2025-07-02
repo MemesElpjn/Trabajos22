@@ -2216,3 +2216,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 22:52:53.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Multi-Tool]
 [02Jul2025 23:22:55.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [What a Deal!]
 [02Jul2025 23:27:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Unknown Technology]
+[02Jul2025 23:28:34.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 7.772712648194428,-0.8999999999999488,-7.040170427673047

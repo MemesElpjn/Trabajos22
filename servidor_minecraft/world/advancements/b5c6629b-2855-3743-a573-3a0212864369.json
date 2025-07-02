@@ -1826,73 +1826,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:24:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
     },
     "done": false
   },
@@ -1992,9 +1992,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2025-07-02 23:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-07-02 20:04:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-07-02 23:26:38 +0000"
     },
     "done": true
   },
@@ -2449,6 +2461,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2025-07-02 23:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-07-02 22:55:01 +0000"
@@ -2647,6 +2665,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-07-02 23:26:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-02 22:31:02 +0000"
@@ -2722,6 +2746,15 @@
   "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
       "has_planks": "2025-07-02 23:22:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-07-02 23:27:31 +0000",
+      "silicon": "2025-07-02 23:27:31 +0000",
+      "engineering": "2025-07-02 23:27:32 +0000",
+      "logic": "2025-07-02 23:27:31 +0000"
     },
     "done": true
   },
@@ -2947,6 +2980,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 23:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 19:53:25 +0000"
@@ -3049,9 +3088,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2025-07-02 23:26:33 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/world/wood/bloodshroom/door": {
     "criteria": {
       "has_planks": "2025-07-02 22:08:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2025-07-02 23:26:33 +0000"
     },
     "done": true
   },
@@ -3427,6 +3478,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 23:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-02 19:35:01 +0000"
@@ -3619,9 +3676,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 23:27:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-07-02 21:10:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2025-07-02 23:26:33 +0000"
     },
     "done": true
   },
@@ -3901,6 +3970,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2025-07-02 23:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-02 21:55:44 +0000"
@@ -3928,6 +4003,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-07-02 19:46:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 23:27:44 +0000"
     },
     "done": true
   },
@@ -4131,6 +4212,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 23:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 19:53:25 +0000"
@@ -4161,6 +4248,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-07-02 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2025-07-02 23:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-02 23:22:55 +0000"
@@ -4170,6 +4269,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-02 21:05:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 23:27:44 +0000"
     },
     "done": true
   },
@@ -4347,6 +4452,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2025-07-02 23:26:33 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2025-07-02 21:41:46 +0000"
@@ -4428,6 +4539,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-07-02 21:41:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 23:27:44 +0000"
     },
     "done": true
   },
@@ -4677,6 +4794,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-07-02 23:26:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-07-02 19:50:00 +0000"
@@ -4746,6 +4869,12 @@
   "biomesoplenty:recipes/misc/orange_dye_from_orange_cosmos": {
     "criteria": {
       "has_flower": "2025-07-02 23:16:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2025-07-02 23:26:33 +0000"
     },
     "done": true
   },
@@ -5121,6 +5250,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 23:27:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2025-07-02 19:26:49 +0000"
@@ -5304,6 +5445,12 @@
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-07-02 19:50:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-07-02 23:27:31 +0000"
     },
     "done": true
   },
