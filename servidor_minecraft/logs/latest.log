@@ -1883,3 +1883,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 19:03:52.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -9.048651737606292,0.2538907259487644,-4.83698472693834
 [02Jul2025 19:03:52.330] [Server thread/INFO] [Lexiconfig/]: Starting lexicon revision!
 [02Jul2025 19:03:52.332] [Server thread/INFO] [Lexiconfig/]: Finished lexicon revision!
+[02Jul2025 19:10:12.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by Skeleton
+[02Jul2025 19:10:12.052] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 19:17:45.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set the time to 1000]
