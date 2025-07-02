@@ -1826,73 +1826,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-02 23:34:58 +0000"
+      "log_spam_fixer": "2025-07-02 23:44:58 +0000"
     },
     "done": false
   },
@@ -1962,6 +1962,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-02 23:42:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-02 21:05:00 +0000"
@@ -1995,6 +2001,12 @@
   "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
     "criteria": {
       "has_certus_quartz": "2025-07-02 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
     },
     "done": true
   },
@@ -2818,6 +2830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-02 21:10:47 +0000"
@@ -2989,6 +3007,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-02 19:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
     },
     "done": true
   },
@@ -3313,6 +3337,12 @@
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-07-02 20:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
     },
     "done": true
   },
@@ -4018,6 +4048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-07-02 21:48:04 +0000"
@@ -4057,6 +4093,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-02 20:07:14 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
     },
     "done": true
   },
@@ -4131,6 +4173,12 @@
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-02 19:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
     },
     "done": true
   },
@@ -4257,6 +4305,12 @@
   "ae2:recipes/misc/decorative/quartz_block": {
     "criteria": {
       "has_certus_quartz_crystal": "2025-07-02 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
     },
     "done": true
   },
@@ -4704,6 +4758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-07-02 19:46:18 +0000"
@@ -4854,6 +4914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/duct": {
     "criteria": {
       "has_item": "2025-07-02 20:04:20 +0000"
@@ -4902,6 +4968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-02 21:10:25 +0000"
@@ -4923,6 +4995,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-02 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-07-02 23:40:27 +0000"
     },
     "done": true
   },
@@ -5196,6 +5274,12 @@
     },
     "done": true
   },
+  "functionalstorage:recipes/misc/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-07-02 19:50:00 +0000"
@@ -5424,6 +5508,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/inscribers": {
+    "criteria": {
+      "has_the_recipe": "2025-07-02 23:45:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-02 19:36:08 +0000"
@@ -5463,6 +5553,12 @@
   "iammusicplayer:recipes/misc/radio_antenna": {
     "criteria": {
       "has_ender_pearl": "2025-07-02 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-02 23:42:47 +0000"
     },
     "done": true
   },
