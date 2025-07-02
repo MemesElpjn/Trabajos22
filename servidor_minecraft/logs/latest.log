@@ -2186,3 +2186,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 21:54:11.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was slain by Piglin
 [02Jul2025 21:54:11.302] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
 [02Jul2025 21:54:16.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Gave 1 [Ender Pearl] to TheForgottenNeo]
+[02Jul2025 21:58:26.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [A Terrible Fortress]
+[02Jul2025 22:00:34.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was doomed to fall
+[02Jul2025 22:00:34.350] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 22:00:38.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Gave 1 [Ender Pearl] to TheForgottenNeo]
+[02Jul2025 22:00:52.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Into Fire]
+[02Jul2025 22:06:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by Skeleton
+[02Jul2025 22:06:11.798] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 22:06:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Gave 1 [Ender Pearl] to TheForgottenNeo]
