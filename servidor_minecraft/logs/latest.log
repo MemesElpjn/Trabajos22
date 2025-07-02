@@ -2214,3 +2214,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 22:48:08.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1319, y=52, z=-2378} but found not block entity block Block{minecraft:air} at location
 [02Jul2025 22:48:08.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1319, y=52, z=-2378}
 [02Jul2025 22:52:53.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Multi-Tool]
+[02Jul2025 23:22:55.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [What a Deal!]
+[02Jul2025 23:27:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Unknown Technology]
