@@ -1895,3 +1895,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 19:31:24.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -88.500000, 40.500000, -1143.500000]
 [02Jul2025 19:34:25.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was blown up by Creeper
 [02Jul2025 19:34:25.200] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 19:50:10.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [It's Chargin' Time !]
+[02Jul2025 19:50:14.191] [Server thread/INFO] [AE2:S/]: Assigning ME player id 0 to Minecraft profile b5c6629b-2855-3743-a573-3a0212864369 (TheForgottenNeo)
+[02Jul2025 19:52:51.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [A Strange Grave Dust]
+[02Jul2025 19:53:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Ashes 'n Bones]
+[02Jul2025 20:01:06.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[02Jul2025 20:01:09.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[02Jul2025 20:01:33.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [A Metallur-what?]
+[02Jul2025 20:03:33.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [The Alloy That Started it All]
