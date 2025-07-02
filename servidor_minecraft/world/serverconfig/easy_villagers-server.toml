@@ -55,5 +55,5 @@
 [incubator]
 	#The speed at which the incubator ages the villagers
 	#Range: 1 ~ 1024
-	speed = 2
+	speed = 100
 
