@@ -2194,3 +2194,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 22:06:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by Skeleton
 [02Jul2025 22:06:11.798] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
 [02Jul2025 22:06:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Gave 1 [Ender Pearl] to TheForgottenNeo]
+[02Jul2025 22:07:57.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Blood Island]
+[02Jul2025 22:10:10.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo tried to swim in lava
+[02Jul2025 22:10:10.600] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 22:10:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -72.500000, 64.500000, -1092.500000]
+[02Jul2025 22:10:36.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to 298.500000, 36.500000, 336.500000]
+[02Jul2025 22:11:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -15.500000, 54.500000, -139.500000]
