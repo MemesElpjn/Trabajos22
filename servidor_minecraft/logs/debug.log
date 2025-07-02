@@ -16569,3 +16569,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02Jul2025 21:35:26.138] [Worker-Main-174/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 15], pos: MutableBlockPos{x=288, y=173, z=240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
 [02Jul2025 21:35:26.138] [Worker-Main-174/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 15], pos: MutableBlockPos{x=288, y=174, z=240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
 [02Jul2025 21:36:17.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/40311, l='ServerLevel[world]', x=111.72, y=40.50, z=263.49] died: Radiation Director was slain by TheForgottenNeo
+[02Jul2025 21:36:57.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Pocket Edition Alpha]
+[02Jul2025 21:37:12.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Who is Cutting Onions?]
+[02Jul2025 21:38:45.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [The Dust Settles]
+[02Jul2025 21:38:45.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Strange Biomes]
+[02Jul2025 21:38:59.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Hot Stuff]
+[02Jul2025 21:40:01.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was blown up by Ghast Sentry
+[02Jul2025 21:40:01.804] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheForgottenNeo was created at position [x:109, y:44, z:232, dim:minecraft:the_nether]
+[02Jul2025 21:40:01.807] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 21:40:24.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 21:40:24.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 21:40:30.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Gave 1 [Ender Pearl] to TheForgottenNeo]
+[02Jul2025 21:40:34.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [The Most Useful Key]
+[02Jul2025 21:40:38.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [A Fast Comeback]
+[02Jul2025 21:41:00.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Chain Death]
+[02Jul2025 21:41:00.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo burned to death
+[02Jul2025 21:41:00.545] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheForgottenNeo was created at position [x:126, y:34, z:323, dim:minecraft:the_nether]
+[02Jul2025 21:41:00.545] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 21:41:03.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Gave 1 [Ender Pearl] to TheForgottenNeo]
+[02Jul2025 21:45:24.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 21:45:24.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 21:46:12.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Those Were the Days]
+[02Jul2025 21:47:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [War Pigs]
+[02Jul2025 21:48:09.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Hidden in the Depths]
+[02Jul2025 21:50:24.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 21:50:24.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 21:52:57.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Ol' Betsy]
+[02Jul2025 21:54:11.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was slain by Piglin
+[02Jul2025 21:54:11.293] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheForgottenNeo was created at position [x:292, y:69, z:516, dim:minecraft:the_nether]
+[02Jul2025 21:54:11.302] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[02Jul2025 21:54:16.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Gave 1 [Ender Pearl] to TheForgottenNeo]
+[02Jul2025 21:55:24.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 21:55:24.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
