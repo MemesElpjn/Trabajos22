@@ -1051,3 +1051,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jul2025 00:45:33.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -7.636111522738162,1.8000000000000682,7.207878791532721
 [03Jul2025 00:45:57.565] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/949, l='ServerLevel[world]', x=14.92, y=99.00, z=-742.79]
 [03Jul2025 01:09:04.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [A (Much) Bigger Table]
+[03Jul2025 01:21:55.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Cover Me with Diamonds]
