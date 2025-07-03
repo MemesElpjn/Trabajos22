@@ -1053,3 +1053,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jul2025 05:25:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Crafting Maestro]
 [03Jul2025 05:33:35.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 10.324628930038312,0.7146361266538293,-0.2562650885251969
 [03Jul2025 05:38:18.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Network Apprentice]
+[03Jul2025 05:44:24.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[03Jul2025 05:44:24.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
