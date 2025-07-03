@@ -6199,6 +6199,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-07-03 02:50:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-07-03 02:18:56 +0000"
@@ -6264,6 +6270,12 @@
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-07-03 02:19:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-07-03 02:50:35 +0000"
     },
     "done": true
   },
@@ -6363,6 +6375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-03 02:52:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-07-03 02:19:47 +0000"
@@ -6456,6 +6474,12 @@
   "ae2:recipes/misc/materials/advancedcard": {
     "criteria": {
       "has_calculation_processor": "2025-07-03 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-07-03 02:49:46 +0000"
     },
     "done": true
   },
@@ -6579,6 +6603,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-07-03 02:50:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-07-03 02:18:56 +0000"
@@ -6606,6 +6636,12 @@
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-07-03 02:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-03 02:52:00 +0000"
     },
     "done": true
   },
@@ -6654,6 +6690,12 @@
   "create:recipes/misc/crafting/logistics/desk_bell": {
     "criteria": {
       "has_item": "2025-07-03 02:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-03 02:52:00 +0000"
     },
     "done": true
   },
@@ -6921,6 +6963,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-07-03 02:50:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-07-03 02:18:56 +0000"
@@ -7008,6 +7056,12 @@
   "ae2:recipes/misc/network/cells/item_storage_components_cell_4k_part": {
     "criteria": {
       "has_cell_component_1k": "2025-07-03 01:14:24 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-07-03 02:50:34 +0000"
     },
     "done": true
   },
