@@ -1051,3 +1051,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jul2025 20:01:35.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Ambush]
 [03Jul2025 20:02:28.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -72.500000, 64.500000, -1092.500000]
 [03Jul2025 20:03:56.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Recursive Networking]
+[03Jul2025 20:18:31.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[03Jul2025 20:18:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[03Jul2025 20:18:31.834] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jul2025 20:18:44.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:38351] logged in with entity id 5056 at (-83.71931950295935, 63.0, -1096.5736993639757)
+[03Jul2025 20:18:44.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[03Jul2025 20:18:44.837] [Server thread/INFO] [Jade/]: Syncing config to TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369)
+[03Jul2025 20:18:44.837] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
