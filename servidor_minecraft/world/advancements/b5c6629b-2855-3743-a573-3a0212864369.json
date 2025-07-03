@@ -6169,9 +6169,45 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_soul_glass": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/cell_workbench": {
     "criteria": {
       "has_calculation_processor": "2025-07-03 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
     },
     "done": true
   },
@@ -6180,6 +6216,14 @@
       "has_calculation_processor": "2025-07-03 01:07:35 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_fuel_gauge": "2025-07-03 02:09:32 +0000",
+      "seared_table": "2025-07-03 02:10:51 +0000",
+      "seared_faucet": "2025-07-03 02:10:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/coal": {
     "criteria": {
@@ -6190,6 +6234,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-07-03 01:21:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-03 01:59:20 +0000"
     },
     "done": true
   },
@@ -6205,9 +6261,39 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/item_storage_components_cell_16k_part": {
     "criteria": {
       "has_cell_component_4k": "2025-07-03 01:16:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/modifier_worktable": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
     },
     "done": true
   },
@@ -6223,9 +6309,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2025-07-03 01:59:20 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/materials/advancedcard": {
     "criteria": {
       "has_calculation_processor": "2025-07-03 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-03 01:59:20 +0000"
     },
     "done": true
   },
@@ -6235,9 +6333,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/parts/energy_level_emitter": {
     "criteria": {
       "has_calculation_processor": "2025-07-03 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-03 02:06:33 +0000"
     },
     "done": true
   },
@@ -6259,6 +6369,30 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-07-03 01:25:29 +0000"
@@ -6271,9 +6405,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2025-07-03 02:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-07-03 01:25:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
     },
     "done": true
   },
@@ -6301,9 +6453,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2025-07-03 02:10:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain_retextured": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/portable_item_cell_16k": {
     "criteria": {
       "has_item_cell_housing": "2025-07-03 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
     },
     "done": true
   },
@@ -6319,6 +6495,24 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/seared_casting_tank": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/item_storage_cell_1k": {
     "criteria": {
       "has_cell_component_1k": "2025-07-03 01:14:24 +0000"
@@ -6328,6 +6522,12 @@
   "ae2:main/storage_cell": {
     "criteria": {
       "c4k": "2025-07-03 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-07-03 02:11:18 +0000"
     },
     "done": true
   },
@@ -6349,9 +6549,45 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-03 01:25:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_tinted_glass": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cracked_bricks_smelting": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct_retextured": {
+    "criteria": {
+      "has_item": "2025-07-03 02:06:33 +0000"
     },
     "done": true
   },
@@ -6370,6 +6606,12 @@
   "ae2:recipes/misc/tools/portable_item_cell_4k": {
     "criteria": {
       "has_item_cell_housing": "2025-07-03 01:11:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:40 +0000"
     },
     "done": true
   },
@@ -6394,6 +6636,30 @@
   "ae2:recipes/misc/network/crafting/cpu_crafting_unit": {
     "criteria": {
       "has_calculation_processor": "2025-07-03 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/flint_and_brick": {
+    "criteria": {
+      "has_seared": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2025-07-03 02:00:58 +0000"
     },
     "done": true
   },

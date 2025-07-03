@@ -1074,3 +1074,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jul2025 01:53:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -72.500000, 64.500000, -1092.500000]
 [03Jul2025 02:02:10.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
 [03Jul2025 02:02:20.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[03Jul2025 02:07:27.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[03Jul2025 02:07:57.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[03Jul2025 02:19:46.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [The Andesite Age]
+[03Jul2025 02:23:39.520] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -79, 66, -1100, dim=minecraft:overworld]
+[03Jul2025 02:23:39.520] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -79, 66, -1100, dim=minecraft:overworld]
