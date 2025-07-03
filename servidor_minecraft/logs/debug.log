@@ -9289,3 +9289,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jul2025 04:25:26.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jul2025 04:28:47.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
 [03Jul2025 04:28:47.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[03Jul2025 04:30:26.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 04:30:26.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 04:35:26.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 04:35:26.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
