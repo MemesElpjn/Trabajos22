@@ -322,17 +322,17 @@
 	#[in Blocks]
 	#The maximum height a fluid tank can reach.
 	#Range: > 1
-	fluidTankMaxHeight = 32
+	fluidTankMaxHeight = 1
 	#.
 	#[in Blocks]
 	#The maximum distance a mechanical pump can push or pull liquids on either side.
 	#Range: > 1
-	mechanicalPumpRange = 16
+	mechanicalPumpRange = 1
 	#.
 	#[in Blocks]
 	#The maximum distance a hose pulley can draw fluid blocks from.
 	#Range: > 1
-	hosePulleyRange = 128
+	hosePulleyRange = 1
 	#.
 	#[in Blocks]
 	#[-1 to disable this behaviour]
@@ -345,7 +345,7 @@
 	#.
 	#Configure which fluids can be drained infinitely.
 	#Allowed Values: ALLOW_ALL, DENY_ALL, ALLOW_BY_TAG, DENY_BY_TAG
-	bottomlessFluidMode = "ALLOW_BY_TAG"
+	bottomlessFluidMode = "ALLOW_ALL"
 	#.
 	#Whether hose pulleys should be allowed to place fluid sources.
 	fluidFillPlaceFluidSourceBlocks = true
