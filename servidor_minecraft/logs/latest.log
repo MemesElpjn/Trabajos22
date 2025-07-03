@@ -1048,3 +1048,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jul2025 07:28:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
 [03Jul2025 07:31:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Accelerator is an understatement]
 [03Jul2025 07:46:57.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[03Jul2025 07:59:28.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[03Jul2025 07:59:31.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[03Jul2025 07:59:36.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[03Jul2025 08:00:00.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[03Jul2025 08:00:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[03Jul2025 08:02:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[03Jul2025 08:02:44.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[03Jul2025 08:08:43.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Applied enchantment Looting III to TheForgottenNeo's item]
+[03Jul2025 08:12:19.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo self destructed
+[03Jul2025 08:12:19.803] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[03Jul2025 08:12:26.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -272.500000, 10.500000, -866.500000]
+[03Jul2025 08:13:43.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -72.500000, 64.500000, -1092.500000]
