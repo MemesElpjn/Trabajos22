@@ -7486,75 +7486,279 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 20:19:23 +0000"
+      "log_spam_fixer": "2025-07-03 20:39:23 +0000"
     },
     "done": false
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_fluix": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_brown": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_gray": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix_clean": {
+    "criteria": {
+      "has_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_red": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_lime": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_from_smart": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_light_blue": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_purple": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_yellow": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_pink": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_green": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_pink": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_light_gray": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_brown": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_light_blue": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_white": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_black": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_magenta": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_magenta": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_gray": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_cyan": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_lime": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_orange": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_blue": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix_clean": {
+    "criteria": {
+      "has_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_green": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_cyan": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-07-03 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_fluix_smart_cable": "2025-07-03 20:27:23 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
