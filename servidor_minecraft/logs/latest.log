@@ -1051,3 +1051,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jul2025 05:09:14.231] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
 [03Jul2025 05:18:17.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> zzz
 [03Jul2025 05:25:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Crafting Maestro]
+[03Jul2025 05:33:35.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 10.324628930038312,0.7146361266538293,-0.2562650885251969
+[03Jul2025 05:38:18.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Network Apprentice]
