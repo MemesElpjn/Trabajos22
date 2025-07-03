@@ -7333,6 +7333,12 @@
     },
     "done": true
   },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2025-07-03 07:31:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
     "criteria": {
       "has_barrel": "2025-07-03 07:38:47 +0000"
@@ -7369,18 +7375,6 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_fragments/cave_spider": {
-    "criteria": {
-      "has_chelicerae": "2025-07-03 08:10:48 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/growth_accelerator": {
-    "criteria": {
-      "certus": "2025-07-03 07:31:17 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
     "criteria": {
       "has_barrel": "2025-07-03 07:38:47 +0000"
@@ -7405,12 +7399,6 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/string": {
-    "criteria": {
-      "has_chelicerae": "2025-07-03 08:10:48 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
     "criteria": {
       "has_barrel": "2025-07-03 07:38:47 +0000"
@@ -7426,12 +7414,6 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-07-03 07:38:47 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/spider": {
-    "criteria": {
-      "has_chelicerae": "2025-07-03 08:10:48 +0000"
     },
     "done": true
   },
@@ -7453,12 +7435,6 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/spider_eye": {
-    "criteria": {
-      "has_chelicerae": "2025-07-03 08:10:48 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-07-03 07:38:47 +0000"
@@ -7468,6 +7444,30 @@
   "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
     "criteria": {
       "has_barrel": "2025-07-03 07:38:47 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/cave_spider": {
+    "criteria": {
+      "has_chelicerae": "2025-07-03 08:10:48 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/string": {
+    "criteria": {
+      "has_chelicerae": "2025-07-03 08:10:48 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/spider": {
+    "criteria": {
+      "has_chelicerae": "2025-07-03 08:10:48 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2025-07-03 08:10:48 +0000"
     },
     "done": true
   },
