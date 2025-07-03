@@ -5706,93 +5706,39 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "ae2:recipes/misc/network/cells/spatial_components": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 00:24:59 +0000"
-    },
-    "done": false
-  },
-  "ae2:recipes/misc/network/parts/import_bus": {
-    "criteria": {
-      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
+      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_blue": {
+  "ae2:recipes/misc/tools/misctools_entropy_manipulator": {
     "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
+      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/parts/annihilation_plane_alt2": {
+  "ae2:recipes/misc/network/blocks/spatial_io_port": {
     "criteria": {
-      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
+      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/controller": {
+    "criteria": {
+      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/tunnels_me": {
+    "criteria": {
+      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_drive": {
+    "criteria": {
+      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
     },
     "done": true
   },
@@ -5802,15 +5748,21 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cells/spatial_components": {
+  "ae2:main/charged_quartz": {
     "criteria": {
-      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
+      "certus": "2025-07-03 00:11:22 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_lime": {
+  "ae2:recipes/misc/tools/misctools_charged_staff": {
     "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
+      "has_charged_certus_quartz_crystal": "2025-07-03 00:11:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+    "criteria": {
+      "has_charged_certus_quartz_crystal": "2025-07-03 00:11:22 +0000"
     },
     "done": true
   },
@@ -5820,27 +5772,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_brown": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/wireless_terminal": {
-    "criteria": {
-      "has_terminal": "2025-07-03 00:20:09 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/misc/fluixpearl": {
     "criteria": {
       "has_crystals/fluix": "2025-07-03 00:13:48 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/panels_monitor": {
-    "criteria": {
-      "has_semi_dark_monitor": "2025-07-03 00:16:40 +0000"
     },
     "done": true
   },
@@ -5850,51 +5784,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/parts/terminals_crafting": {
-    "criteria": {
-      "has_terminal": "2025-07-03 00:20:09 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
-    "criteria": {
-      "has_quartz_glass": "2025-07-03 00:16:02 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/decorative/fluix_block": {
     "criteria": {
       "has_fluix_crystal": "2025-07-03 00:13:48 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/blocks/interfaces_interface": {
-    "criteria": {
-      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
-    "criteria": {
-      "has_glass_cable": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/charged_quartz": {
-    "criteria": {
-      "certus": "2025-07-03 00:11:22 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/tools/fluix_shovel": {
     "criteria": {
       "has_crystals/fluix": "2025-07-03 00:13:48 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/monitors_storage": {
-    "criteria": {
-      "has_illuminated_panel": "2025-07-03 00:16:40 +0000"
     },
     "done": true
   },
@@ -5910,33 +5808,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_yellow": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/glass_cable": {
-    "criteria": {
-      "certus": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/blocks/energy_energy_acceptor": {
     "criteria": {
       "has_crystals/fluix": "2025-07-03 00:13:48 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/io_condenser": {
-    "criteria": {
-      "has_dusts/fluix": "2025-07-03 00:17:10 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_cyan": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
     },
     "done": true
   },
@@ -5946,81 +5820,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_magenta": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/toggle_bus": {
-    "criteria": {
-      "has_glass_cable": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/misctools_entropy_manipulator": {
-    "criteria": {
-      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/crafting/molecular_assembler": {
-    "criteria": {
-      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_green": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/spatial_io_port": {
-    "criteria": {
-      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_light_blue": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/annihilation_plane_alt": {
-    "criteria": {
-      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_black": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/pattern_providers_interface": {
-    "criteria": {
-      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/misctools_charged_staff": {
-    "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-07-03 00:11:22 +0000"
-    },
-    "done": true
-  },
   "ae2:main/fluix": {
     "criteria": {
       "certus": "2025-07-03 00:13:48 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_pink": {
-    "criteria": {
-      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
     },
     "done": true
   },
@@ -6036,57 +5838,93 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/parts/export_bus": {
+  "ae2:recipes/misc/tools/fluix_pickaxe": {
     "criteria": {
-      "has_formation_core": "2025-07-03 00:20:04 +0000"
+      "has_crystals/fluix": "2025-07-03 00:13:48 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
+  "ae2:recipes/misc/network/cables/glass_blue": {
     "criteria": {
-      "has_charged_certus_quartz_crystal": "2025-07-03 00:11:22 +0000"
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/matter_cannon": {
+  "ae2:recipes/misc/network/cables/glass_lime": {
     "criteria": {
-      "has_formation_core": "2025-07-03 00:20:04 +0000"
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cells/view_cell_storage": {
+  "ae2:recipes/misc/network/cables/glass_brown": {
     "criteria": {
-      "has_terminal": "2025-07-03 00:20:09 +0000"
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/parts/formation_plane_alt": {
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
     "criteria": {
-      "has_formation_core": "2025-07-03 00:20:04 +0000"
+      "has_glass_cable": "2025-07-03 00:14:35 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/blocks/controller": {
+  "ae2:recipes/misc/network/cables/glass_yellow": {
     "criteria": {
-      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-07-03 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/toggle_bus": {
+    "criteria": {
+      "has_glass_cable": "2025-07-03 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
     },
     "done": true
   },
   "ae2:recipes/misc/network/cables/glass_purple": {
     "criteria": {
       "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/tunnels_me": {
-    "criteria": {
-      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/view_cell": {
-    "criteria": {
-      "has_terminal": "2025-07-03 00:20:09 +0000"
     },
     "done": true
   },
@@ -6102,18 +5940,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/tools/network_color_applicator": {
-    "criteria": {
-      "has_formation_core": "2025-07-03 00:20:04 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/fluix_pickaxe": {
-    "criteria": {
-      "has_crystals/fluix": "2025-07-03 00:13:48 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/glass_gray": {
     "criteria": {
       "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
@@ -6126,15 +5952,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/blocks/storage_drive": {
-    "criteria": {
-      "has_engineering_processor": "2025-07-03 00:09:34 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/glass_white": {
     "criteria": {
       "has_fluix_glass_cable": "2025-07-03 00:14:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
+    "criteria": {
+      "has_quartz_glass": "2025-07-03 00:16:02 +0000"
     },
     "done": true
   },
@@ -6144,9 +5970,201 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/panels_monitor": {
+    "criteria": {
+      "has_semi_dark_monitor": "2025-07-03 00:16:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/monitors_storage": {
+    "criteria": {
+      "has_illuminated_panel": "2025-07-03 00:16:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/io_condenser": {
+    "criteria": {
+      "has_dusts/fluix": "2025-07-03 00:17:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/import_bus": {
+    "criteria": {
+      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt2": {
+    "criteria": {
+      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface": {
+    "criteria": {
+      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/molecular_assembler": {
+    "criteria": {
+      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt": {
+    "criteria": {
+      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/pattern_providers_interface": {
+    "criteria": {
+      "has_annihilation_core": "2025-07-03 00:17:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/export_bus": {
+    "criteria": {
+      "has_formation_core": "2025-07-03 00:20:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/matter_cannon": {
+    "criteria": {
+      "has_formation_core": "2025-07-03 00:20:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/formation_plane_alt": {
+    "criteria": {
+      "has_formation_core": "2025-07-03 00:20:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_color_applicator": {
+    "criteria": {
+      "has_formation_core": "2025-07-03 00:20:04 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/parts/formation_plane": {
     "criteria": {
       "has_formation_core": "2025-07-03 00:20:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/wireless_terminal": {
+    "criteria": {
+      "has_terminal": "2025-07-03 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_crafting": {
+    "criteria": {
+      "has_terminal": "2025-07-03 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/view_cell_storage": {
+    "criteria": {
+      "has_terminal": "2025-07-03 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/view_cell": {
+    "criteria": {
+      "has_terminal": "2025-07-03 00:20:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/smooth_sky_stone_stairs": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_small_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/smooth_sky_stone_slab": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/smooth_sky_stone_wall": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_smooth_sky_stone": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-07-03 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-07-03 00:29:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface_alt": {
+    "criteria": {
+      "has_cable_interface": "2025-07-03 00:32:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/storage_bus": {
+    "criteria": {
+      "has_interface": "2025-07-03 00:32:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface_part": {
+    "criteria": {
+      "has_the_recipe": "2025-07-03 00:32:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2025-07-03 00:33:01 +0000"
     },
     "done": true
   },
