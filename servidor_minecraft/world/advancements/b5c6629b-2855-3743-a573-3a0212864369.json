@@ -1000,6 +1000,7 @@
       "minecraft:piglin_brute": "2025-07-02 21:50:46 +0000",
       "minecraft:creeper": "2025-07-02 19:10:26 +0000",
       "minecraft:zombified_piglin": "2025-07-03 01:04:30 +0000",
+      "minecraft:witch": "2025-07-03 20:01:35 +0000",
       "minecraft:wither_skeleton": "2025-07-02 21:36:17 +0000",
       "minecraft:cave_spider": "2025-07-02 19:33:48 +0000",
       "minecraft:piglin": "2025-07-02 21:48:02 +0000",
@@ -7468,6 +7469,18 @@
   "reliquary:recipes/misc/uncrafting/spider_eye": {
     "criteria": {
       "has_chelicerae": "2025-07-03 08:10:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/recursive": {
+    "criteria": {
+      "recursive": "2025-07-03 20:03:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-03 20:01:35 +0000"
     },
     "done": true
   },

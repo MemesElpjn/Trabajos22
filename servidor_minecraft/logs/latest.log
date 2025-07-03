@@ -1050,3 +1050,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03Jul2025 19:55:26.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
 [03Jul2025 20:01:35.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Ambush]
 [03Jul2025 20:02:28.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -72.500000, 64.500000, -1092.500000]
+[03Jul2025 20:03:56.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Recursive Networking]
