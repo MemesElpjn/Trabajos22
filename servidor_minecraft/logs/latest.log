@@ -797,3 +797,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [04Jul2025 00:00:29.185] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: biomesoplenty.json, 105 valid dimlets found
 [04Jul2025 00:00:29.190] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Reading dimlet package: emendatusenigmatica.json, 0 valid dimlets found
 [04Jul2025 00:00:30.695] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[04Jul2025 00:48:29.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:51027] logged in with entity id 674 at (-74.5, 64.0, -1092.5)
+[04Jul2025 00:48:29.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[04Jul2025 00:48:29.544] [Server thread/INFO] [Jade/]: Syncing config to TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369)
+[04Jul2025 00:48:29.563] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
