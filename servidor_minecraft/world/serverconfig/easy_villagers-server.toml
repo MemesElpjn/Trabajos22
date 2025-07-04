@@ -18,7 +18,7 @@
 [iron_farm]
 	#The time in ticks the iron farm takes to spawn a golem
 	#Range: > 201
-	spawn_time = 1600
+	spawn_time = 750
 
 [trader]
 	#The minimum amount of time in ticks the trader takes to restock
