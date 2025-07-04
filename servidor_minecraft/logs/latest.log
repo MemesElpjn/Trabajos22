@@ -2041,3 +2041,6 @@ Compiled Descriptor:
     STRUCTURE: minecraft:default
 --------------------------------------------------
 [04Jul2025 04:00:02.718] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Patterns for rarity UNCOMMON: 75
+[04Jul2025 04:17:40.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58802, l='ServerLevel[world]', x=-481.28, y=253.00, z=1120.63] died, message: 'Unemployed suffocated in a wall'
+[04Jul2025 04:20:38.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62317, l='ServerLevel[world]', x=-247.28, y=259.56, z=1977.63] died, message: 'Unemployed suffocated in a wall'
+[04Jul2025 04:21:59.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/64572, l='ServerLevel[world]', x=51.72, y=221.00, z=2360.63] died, message: 'Unemployed suffocated in a wall'
