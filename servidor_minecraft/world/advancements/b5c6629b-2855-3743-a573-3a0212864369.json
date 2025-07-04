@@ -86,6 +86,7 @@
       "minecraft:lush_caves": "2025-07-03 22:40:58 +0000",
       "minecraft:jungle": "2025-07-02 22:43:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-02 22:45:55 +0000",
+      "minecraft:deep_dark": "2025-07-04 02:35:39 +0000",
       "minecraft:meadow": "2025-07-02 22:52:46 +0000",
       "minecraft:savanna": "2025-07-02 18:49:45 +0000",
       "minecraft:plains": "2025-07-02 18:42:46 +0000"
@@ -1008,6 +1009,7 @@
       "minecraft:piglin": "2025-07-02 21:48:02 +0000",
       "minecraft:enderman": "2025-07-02 23:00:39 +0000",
       "minecraft:stray": "2025-07-02 22:38:57 +0000",
+      "minecraft:silverfish": "2025-07-04 02:38:00 +0000",
       "minecraft:zombie": "2025-07-02 19:11:23 +0000",
       "minecraft:drowned": "2025-07-02 22:25:19 +0000"
     },
@@ -1205,6 +1207,8 @@
       "crystalline_chasm": "2025-07-03 22:17:38 +0000",
       "withered_abyss": "2025-07-02 21:40:55 +0000",
       "orchard": "2025-07-02 22:47:32 +0000",
+      "lavender_forest": "2025-07-04 02:34:54 +0000",
+      "mediterranean_forest": "2025-07-04 02:34:43 +0000",
       "coniferous_forest": "2025-07-02 22:51:24 +0000",
       "spider_nest": "2025-07-02 19:27:15 +0000",
       "seasonal_orchard": "2025-07-02 22:50:09 +0000",
@@ -8293,12 +8297,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
-    },
-    "done": false
-  },
   "rftoolsdim:recipes/rftoolsdim/empty_biome_dimlet": {
     "criteria": {
       "empty_dimlet": "2025-07-04 02:04:49 +0000"
@@ -8310,12 +8308,6 @@
       "basic_logistical_transporter": "2025-07-04 00:59:31 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
-    },
-    "done": false
   },
   "rftoolsdim:recipes/rftoolsdim/digit6": {
     "criteria": {
@@ -8389,23 +8381,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
-    },
-    "done": false
-  },
   "rftoolsdim:recipes/rftoolsdim/digit_dimlet": {
     "criteria": {
       "empty_dimlet": "2025-07-04 02:04:49 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
+      "in_stronghold": "2025-07-04 02:37:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "rftoolsdim:recipes/rftoolsdim/empty_block_dimlet": {
     "criteria": {
@@ -8413,35 +8399,11 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
-    },
-    "done": false
-  },
   "rftoolsdim:recipes/rftoolsdim/empty_sky_dimlet": {
     "criteria": {
       "empty_dimlet": "2025-07-04 02:04:49 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
-    },
-    "done": false
   },
   "rftoolsdim:recipes/rftoolsdim/empty_fluid_dimlet": {
     "criteria": {
@@ -8455,12 +8417,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
-    },
-    "done": false
-  },
   "rftoolsdim:recipes/rftoolsdim/empty_structure_dimlet": {
     "criteria": {
       "empty_dimlet": "2025-07-04 02:04:49 +0000"
@@ -8473,23 +8429,23 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
+      "kill_mob_near_sculk_catalyst": "2025-07-04 02:38:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "reliquary:recipes/mob_charm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
+      "has_mob_charm_fragment": "2025-07-04 02:38:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "reliquary:recipes/misc/mob_charm_belt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:20:29 +0000"
+      "has_mob_charm_fragment": "2025-07-04 02:38:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "rftoolsdim:recipes/rftoolsdim/empty_tag_dimlet": {
     "criteria": {

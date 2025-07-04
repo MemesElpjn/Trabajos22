@@ -808,3 +808,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [04Jul2025 02:20:00.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
 [04Jul2025 02:20:44.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
 [04Jul2025 02:20:44.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[04Jul2025 02:27:09.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
+[04Jul2025 02:31:03.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to 249.500000, -1.500000, -1152.500000]
+[04Jul2025 02:33:52.756] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 7442ad08: ConcentricRingsSearchWorker starting with 100000 max samples
+[04Jul2025 02:33:52.865] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 7442ad08: ConcentricRingsSearchWorker succeeded with 128 samples
+[04Jul2025 02:37:20.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Eye Spy]
+[04Jul2025 02:38:00.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [It Spreads]
