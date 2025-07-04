@@ -8295,9 +8295,15 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_biome_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
   },
   "mekanism:item_transport": {
     "criteria": {
@@ -8307,51 +8313,159 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit6": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit7": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit8": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit9": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit2": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit3": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit4": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit5": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit0": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit1": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_biome_category_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_attribute_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
+  },
+  "rftoolsdim:recipes/rftoolsdim/digit_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_block_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
   },
+  "rftoolsdim:recipes/rftoolsdim/empty_sky_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
   },
+  "rftoolsdim:recipes/rftoolsdim/empty_fluid_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_biome_controller_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_structure_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
   },
   "mekanism:configurator": {
     "criteria": {
@@ -8361,21 +8475,45 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-04 02:00:29 +0000"
+      "log_spam_fixer": "2025-07-04 02:10:29 +0000"
     },
     "done": false
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_tag_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_feature_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_terrain_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/empty_time_dimlet": {
+    "criteria": {
+      "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
