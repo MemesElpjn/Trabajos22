@@ -8293,5 +8293,17 @@
     },
     "done": true
   },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2025-07-04 00:59:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-07-04 01:00:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

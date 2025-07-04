@@ -801,3 +801,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [04Jul2025 00:48:29.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
 [04Jul2025 00:48:29.544] [Server thread/INFO] [Jade/]: Syncing config to TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369)
 [04Jul2025 00:48:29.563] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[04Jul2025 01:00:29.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Configure Everything]
