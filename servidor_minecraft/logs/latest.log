@@ -2012,3 +2012,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [04Jul2025 03:01:51.583] [Worker-Main-158/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [150, -190], pos: BlockPos{x=2415, y=56, z=-3025}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / outer_end:dead_rainbow_feature]
 [04Jul2025 03:04:23.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
 [04Jul2025 03:06:02.199] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Patterns for rarity COMMON: 527
+[04Jul2025 03:22:37.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[04Jul2025 03:22:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[04Jul2025 03:23:16.098] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 7442ad08: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[04Jul2025 03:23:19.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[04Jul2025 03:23:20.417] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 7442ad08: RandomSpreadSearchWorker succeeded with 2307 radius, 44 samples
+[04Jul2025 03:23:20.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -6.4527764059719885,1.2600000000000477,7.826543383133867
+[04Jul2025 03:26:00.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Earthslime Island]
+[04Jul2025 03:30:19.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
