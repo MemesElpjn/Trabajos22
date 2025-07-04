@@ -2020,3 +2020,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [04Jul2025 03:23:20.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -6.4527764059719885,1.2600000000000477,7.826543383133867
 [04Jul2025 03:26:00.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Earthslime Island]
 [04Jul2025 03:30:19.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[04Jul2025 03:58:54.548] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    STRUCTURE: default
+    BIOME: minecraft:snowy_plains
+    BIOME: biomesoplenty:coniferous_forest
+    BIOME_CONTROLLER: checker
+    TIME: normal
+--------------------------------------------------
+[04Jul2025 03:58:54.548] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: platforms
+    TIME: normal
+    SKY: 
+    LIQUID: minecraft:water
+    BLOCK: minecraft:stone
+    BIOME CTRL: checker
+        BIOME: minecraft:snowy_plains
+        BIOME: biomesoplenty:coniferous_forest
+    STRUCTURE: minecraft:default
+--------------------------------------------------
+[04Jul2025 04:00:02.718] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Patterns for rarity UNCOMMON: 75

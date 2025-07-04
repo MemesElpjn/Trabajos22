@@ -8319,6 +8319,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/angelic_feather": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
+    },
+    "done": true
+  },
   "rftoolsdim:recipes/rftoolsdim/empty_biome_dimlet": {
     "criteria": {
       "empty_dimlet": "2025-07-04 02:04:49 +0000"
@@ -8337,6 +8343,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/ender_staff": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
+    },
+    "done": true
+  },
   "mekanism:item_transport": {
     "criteria": {
       "basic_logistical_transporter": "2025-07-04 00:59:31 +0000"
@@ -8352,6 +8364,18 @@
   "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-07-04 03:27:19 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/void_tear": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
     },
     "done": true
   },
@@ -8481,6 +8505,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/magicbane": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-04 03:03:25 +0000"
@@ -8523,6 +8553,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
+    },
+    "done": true
+  },
   "rftoolsdim:recipes/rftoolsdim/part_memory_1": {
     "criteria": {
       "memory0": "2025-07-04 03:13:07 +0000"
@@ -8550,6 +8586,12 @@
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-07-04 03:27:19 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
     },
     "done": true
   },
@@ -8598,6 +8640,12 @@
   "phantasm:find_dreaming_den": {
     "criteria": {
       "is_dreaming_den": "2025-07-04 02:42:31 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
     },
     "done": true
   },
@@ -8691,6 +8739,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-07-04 02:38:00 +0000"
@@ -8766,6 +8820,12 @@
   "rftoolsdim:recipes/rftoolsdim/empty_feature_dimlet": {
     "criteria": {
       "empty_dimlet": "2025-07-04 02:04:49 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/wraith_node": {
+    "criteria": {
+      "has_nebulous_heart": "2025-07-04 03:52:53 +0000"
     },
     "done": true
   },
